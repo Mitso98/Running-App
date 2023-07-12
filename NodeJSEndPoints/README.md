@@ -1,0 +1,1 @@
+#These endpoints are setup to work on AWS lambda functions.
